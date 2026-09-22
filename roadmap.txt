@@ -1,0 +1,6 @@
+ROADMAP FOR BDOS
+- write installer [1st]
+- HPPKG pkg manager [2nd]
+- add AHCI support [5th]
+- eclipse Desktop Environment [4th]
+- be able to run programs. [3rd]
